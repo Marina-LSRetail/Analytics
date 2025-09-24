@@ -1,6 +1,10 @@
 
+<img width="400" height="72" alt="LS Central logo_black" src="https://github.com/user-attachments/assets/414805f9-cb18-4506-a803-0ee6f9bde06d" />
+
+
 
 # 📊 LS Central Data Analytics Repository
+
 
 Welcome to the **LS Central Data Analytics** repository — your gateway to unlocking the power of your data!
 
